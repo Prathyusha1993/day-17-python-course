@@ -4,5 +4,5 @@ class Question:
         self.answer = q_answer
 
 
-new_question = Question('2+3=5', True)
-print(new_question.text)
+# new_question = Question('2+3=5', True)
+# print(new_question.text)
